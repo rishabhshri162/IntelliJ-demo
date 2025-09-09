@@ -1,4 +1,4 @@
-package com.rays.java;
+package Java.program;
 
 public class Sum {
     public static void main(String[] args) {
